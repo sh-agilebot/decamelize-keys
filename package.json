@@ -1,6 +1,6 @@
 {
-	"name": "decamelize-keys",
-	"version": "2.0.1",
+	"name": "@agilebot/decamelize-keys",
+	"version": "2.0.2",
 	"description": "Convert object keys from camel case",
 	"license": "MIT",
 	"repository": "sindresorhus/decamelize-keys",
